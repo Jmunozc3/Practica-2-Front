@@ -1,0 +1,62 @@
+
+input{
+    font-family:Times New Roman;
+}
+
+body{
+    background-color: black;
+    justify-content: center; 
+}
+
+.fondo{
+    background-color: white;
+    padding: 25px;
+    width: 375px;
+    margin:auto;
+    border-radius: 15%;
+   
+}
+.t{
+    text-align:left;
+}
+.T{
+    text-align: center;
+}
+
+.img{
+    max-width: 3%; 
+    height: auto; 
+    border-radius: 90%;
+    position: absolute;
+    top: 15px; 
+    left: 740px; 
+    
+}
+
+button{
+    border-radius: 10%;
+    background-color: yellow;
+}
+
+.fondo2{
+    background-color: white;
+    padding: 25px;
+    width: 600px;
+    margin:auto;
+    border-radius: 0%;
+   
+}
+
+.t2{
+    text-align:right;
+}
+
+.imagen{
+    max-width: 20%; 
+    height: auto; 
+    border-radius: 0%;
+    position: absolute;
+    top: 150px; 
+    left: 450px; 
+    
+}
